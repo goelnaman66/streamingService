@@ -1,4 +1,4 @@
-# Movie Recommendation App
+# Streaming App
 
 This is a movie recommendation app build using React for the front-end, express for the back-end, flask for handelling the recommendations and mongoDB for the database and tmdb api to fetch the movie details. It showcases many features such as recommendation engine, search bar, add to favourites functionality, like or dislike movie, commenting, etc.
 <br/>
