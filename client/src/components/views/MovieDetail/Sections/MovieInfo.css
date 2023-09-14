@@ -1,0 +1,16 @@
+.table-container {
+    display: grid;
+    grid-template-columns: 20% 30% 20% 30%;
+    grid-template-rows: 3rem 3rem;
+}
+
+.flex-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+}
+
+.table-container>div {
+    border: solid 2.5px grey;
+}
